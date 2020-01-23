@@ -1,3 +1,3 @@
 # Flutter Keep
 
-This is a clone of the google keep app using flutter as well as Firebase
+This is a clone of the google keep app using Flutter as well as Firebase
